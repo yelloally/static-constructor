@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/bin/Debug/net7.0/Sttic_Constructor
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/bin/Debug/net7.0/Sttic_Constructor.deps.json
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/bin/Debug/net7.0/Sttic_Constructor.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/bin/Debug/net7.0/Sttic_Constructor.dll
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/bin/Debug/net7.0/Sttic_Constructor.pdb
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/obj/Debug/net7.0/Sttic_Constructor.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/obj/Debug/net7.0/Sttic_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/obj/Debug/net7.0/Sttic_Constructor.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/obj/Debug/net7.0/Sttic_Constructor.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/obj/Debug/net7.0/Sttic_Constructor.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/obj/Debug/net7.0/Sttic_Constructor.dll
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/obj/Debug/net7.0/refint/Sttic_Constructor.dll
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/obj/Debug/net7.0/Sttic_Constructor.pdb
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/obj/Debug/net7.0/Sttic_Constructor.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/Sttic_Constructor/obj/Debug/net7.0/ref/Sttic_Constructor.dll
